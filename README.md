@@ -8,12 +8,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jonathansilveira.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="jonathansilveira | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="jonathansilveira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-[website]: https://jonathansilveira.co
-[instagram]: https://instagram.com/jonathan.silveira
-[linkedin]: https://linkedin.com/in/jonathan-silveira
+<p align="left">
+  <a href="https://www.instagram.com/iuricode/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jonathan.silveira"/></a>
+  
+  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-silveira" /></a>
