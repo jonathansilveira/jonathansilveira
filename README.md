@@ -4,7 +4,7 @@
 **jonathansilveira/jonathansilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-## I'm a Front-End Developer 
+### I'm a Front-End Developer 
 
 - 🌱 I’m currently learning everything 
 - 🥅 2021 Goals: Contribute more to Open Source projects
