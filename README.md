@@ -12,7 +12,7 @@ Me chamo Jonathan Silveira, tenho 21 anos e sou de Santo André (SP). Sou Técni
       <a href="https://github.com/jonathansilveira?tab=stars">
          <img alt="Favoritos" title="Favoritos no GitHub" src="https://custom-icon-badges.demolab.com/badge/-%20Favoritos-green?color=55960c&style=for-the-badge&labelColor=488207&logo=bookmark"/></a>
       <a href="https://www.linkedin.com/in/jonathansantosautoma%C3%A7%C3%A3o/">
-         <img alt="Perfil Linkedin" title="Me siga no Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?color=blue&style=for-the-badge&logoColor=white&logo=In"/></a>
+         <img alt="Perfil Linkedin" title="Me siga no Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?color=blue&style=for-the-badge&logoColor=white&logo=In&labelColor=1d5884"/></a>
    </p>
     
 ---
