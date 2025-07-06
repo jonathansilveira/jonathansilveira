@@ -94,7 +94,7 @@ Me chamo Jonathan Silveira, tenho 21 anos e sou de Santo André (SP). Sou Técni
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jonathansilveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=jonathansilveira&theme=dracula&show_icons=true&locale=pt-br" 
 
 
 <img 
