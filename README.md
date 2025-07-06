@@ -12,11 +12,11 @@ Me chamo Jonathan Silveira, tenho 21 anos e sou de Santo André (SP). Sou Técni
             src="https://custom-icon-badges.demolab.com/github/followers/jonathansilveira?color=%23E05D44&style=for-the-badge&labelColor=CE4630&logo=person-add&label=Seguidores"
         />
     </a>
-      <a href="https://github.com/jonathansilveira?tab=stars">
+      <a href="https://github.com/jonathansilveira?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de Favoritos" 
-            title="Total de favoritos GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/jonathansilveira?color=%23E1AD0E&style=for-the-badge&labelColor=C79600&logo=star&label=Favoritos"
+            alt="Total de Estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/jonathansilveira?color=%23E1AD0E&style=for-the-badge&labelColor=C79600&logo=star&label=Estrelas"
         />
     </a>
       </a>
