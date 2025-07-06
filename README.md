@@ -4,8 +4,6 @@
 
 Me chamo Jonathan Silveira, tenho 21 anos e sou de Santo André (SP). Sou Técnico em Automação Industrial pelo SENAI e atualmente trabalho como Técnico de Projetos na área de Automação Industrial. Estou no 8º semestre de Ciências da Computação na UNIP e busco uma oportunidade de estágio na área de Tecnologia, onde possa aplicar meus conhecimentos e crescer profissionalmente.
 
-###
-
 <p align="left">
       <a href="https://github.com/jonathansilveira?tab=followers">
         <img 
