@@ -27,7 +27,7 @@ Me chamo Jonathan Silveira, tenho 21 anos e sou de Santo André (SP). Sou Técni
             src="https://custom-icon-badges.demolab.com/badge/-%20Repositório-green?style=for-the-badge&logoColor=white&logo=repo&color=55960c"
         />
     </a>
-        <a href="(https://www.linkedin.com/in/jonathansantosautoma%C3%A7%C3%A3o/)">
+        <a href="https://www.linkedin.com/in/jonathansantosautoma%C3%A7%C3%A3o/">
         <img 
             alt="Perfil Linkedin" 
             title="Me siga no Linkedin" 
