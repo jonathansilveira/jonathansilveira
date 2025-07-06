@@ -20,11 +20,11 @@ Me chamo Jonathan Silveira, tenho 21 anos e sou de Santo André (SP). Sou Técni
         />
     </a>
       </a>
-    <a href="https://github.com/jonathansilveira??tab=followers">
+    <a href="https://github.com/jonathansilveira?tab=repositories">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/jonathansilveira?color=55960c&style=for-the-badge&labelColor=488207&logo=github&label=GitHub"
+            alt="Repositório" 
+            title="Repositório no GitHub" 
+            src="https://custom-icon-badges.demolab.com/badge/-%20Repositório-green?style=for-the-badge&logoColor=white&logo=repo&color=55960c"
         />
     </a>
         <a href="(https://www.linkedin.com/in/jonathansantosautoma%C3%A7%C3%A3o/)">
