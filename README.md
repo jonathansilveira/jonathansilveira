@@ -4,36 +4,16 @@
 
 Me chamo Jonathan Silveira, tenho 21 anos e sou de Santo André (SP). Sou Técnico em Automação Industrial pelo SENAI e atualmente trabalho como Técnico de Projetos na área de Automação Industrial. Estou no 8º semestre de Ciências da Computação na UNIP e busco uma oportunidade de estágio na área de Tecnologia, onde possa aplicar meus conhecimentos e crescer profissionalmente
 
-<p align="left">
+   <p align="left">
       <a href="https://github.com/jonathansilveira?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Total de Seguidores" 
-            src="https://custom-icon-badges.demolab.com/github/followers/jonathansilveira?color=%23E05D44&style=for-the-badge&labelColor=CE4630&logo=person&label=Seguidores"
-        />
-    </a>
+         <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/jonathansilveira?color=%23E05D44&label=SEGUIDORES&logo=person&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://github.com/jonathansilveira?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de Estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/jonathansilveira?color=%23E1AD0E&style=for-the-badge&labelColor=C79600&logo=star&label=Estrelas"
-        />
-    </a>
-      </a>
-    <a href="https://github.com/jonathansilveira?tab=stars">
-        <img 
-            alt="Favoritos" 
-            title="Favoritos no GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/-%20Favoritos-green?style=for-the-badge&logoColor=white&logo=bookmark&color=55960c"
-        />
-    </a>
-        <a href="https://www.linkedin.com/in/jonathansantosautoma%C3%A7%C3%A3o/">
-        <img 
-            alt="Perfil Linkedin" 
-            title="Me siga no Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=In"
-        />
-    </a>
+         <img alt="Total de Estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jonathansilveira?color=%23E1AD0E&logo=star&logoColor=white&style=for-the-badge&labelColor=C79600&label=ESTRELAS"/></a> 
+      <a href="https://github.com/jonathansilveira?tab=stars">
+         <img alt="Favoritos" title="Favoritos no GitHub" src="https://custom-icon-badges.demolab.com/badge/-%20Favoritos-green?color=55960c&style=for-the-badge&labelColor=488207&logo=bookmark"/></a>
+      <a href="https://www.linkedin.com/in/jonathansantosautoma%C3%A7%C3%A3o/">
+         <img alt="Perfil Linkedin" title="Me siga no Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?color=blue&style=for-the-badge&logoColor=white&logo=In"/></a>
+   </p>
     
 ---
 
