@@ -4,6 +4,8 @@
 
 Me chamo Jonathan Silveira, tenho 21 anos e sou de Santo André (SP). Sou Técnico em Automação Industrial pelo SENAI e atualmente trabalho como Técnico de Projetos na área de Automação Industrial. Estou no 8º semestre de Ciências da Computação na UNIP e busco uma oportunidade de estágio na área de Tecnologia, onde possa aplicar meus conhecimentos e crescer profissionalmente.
 
+###
+
 <p align="left">
       <a href="https://github.com/jonathansilveira?tab=followers">
         <img 
@@ -34,7 +36,7 @@ Me chamo Jonathan Silveira, tenho 21 anos e sou de Santo André (SP). Sou Técni
             src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=In"
         />
     </a>
-
+    
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -80,10 +82,8 @@ Me chamo Jonathan Silveira, tenho 21 anos e sou de Santo André (SP). Sou Técni
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-
-
 <br/>
-
+<br/>
 
 ### 📊 Estatísticas
 
@@ -104,9 +104,8 @@ Me chamo Jonathan Silveira, tenho 21 anos e sou de Santo André (SP). Sou Técni
   />
 
 </p>
-
 <img src="https://raw.githubusercontent.com/jonathansilveira/jonathansilveira/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 
