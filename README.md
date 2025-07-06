@@ -82,8 +82,8 @@ Me chamo Jonathan Silveira, tenho 21 anos e sou de Santo André (SP). Sou Técni
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
+<img src="https://raw.githubusercontent.com/jonathansilveira/jonathansilveira/output/snake.svg" alt="Snake animation" />
+
 
 ### 📊 Estatísticas
 
@@ -104,7 +104,7 @@ Me chamo Jonathan Silveira, tenho 21 anos e sou de Santo André (SP). Sou Técni
   />
 
 </p>
-<img src="https://raw.githubusercontent.com/jonathansilveira/jonathansilveira/output/snake.svg" alt="Snake animation" />
+
 
 
 
