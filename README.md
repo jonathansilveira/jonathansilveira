@@ -2,9 +2,16 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Jonathan Silveira, tenho 21 anos e sou de Santo André, SP. Concluí o ensino técnico em Automação Industrial no SENAI. Hoje trabalho como Técnico de projetos em Automação Industrial. Atualmente, estou no 8° Semestre cursando Ciências da Computação na UNIP. Estou a procura de um estágio na Área da tecnologia".
+Me chamo Jonathan Silveira, tenho 21 anos e sou de Santo André (SP). Sou formado em Técnico de Automação Industrial pelo SENAI e atualmente trabalho como Técnico de Projetos na área de Automação Industrial. Estou no 8º semestre de Ciências da Computação na UNIP e busco uma oportunidade de estágio na área de Tecnologia, onde possa aplicar meus conhecimentos e crescer profissionalmente.
 
 <p align="left">
+      <a href="https://github.com/jonathansilveira?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Total de Seguidores" 
+            src="https://custom-icon-badges.demolab.com/github/followers/jonathansilveira?color=%23E05D44&style=for-the-badge&labelColor=CE4630&logo=person-add&label=Seguidores"
+        />
+    </a>
       <a href="https://github.com/jonathansilveira?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -13,20 +20,20 @@ Me chamo Jonathan Silveira, tenho 21 anos e sou de Santo André, SP. Concluí o 
         />
     </a>
       </a>
-    <a href="https://github.com/jonathansilveira?tab=followers">
+    <a href="https://github.com/jonathansilveira??tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/jonathansilveira?color=488207&labelColor=488207&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/jonathansilveira?color=55960c&style=for-the-badge&labelColor=488207&logo=github&label=GitHub"
         />
     </a>
-    <a href="https://www.linkedin.com/in/jonathansantosautoma%C3%A7%C3%A3o/">
+        <a href="(https://www.linkedin.com/in/jonathansantosautoma%C3%A7%C3%A3o/)">
         <img 
-            alt="`Perfil Linkedin" 
+            alt="Perfil Linkedin" 
             title="Me siga no Linkedin" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=236ad3&label=Linkedin&logo=In&logoColor=white&style=for-the-badge&labelColor=1155ba"
+            src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=In"
         />
-</p>
+    </a>
 
 ---
 
